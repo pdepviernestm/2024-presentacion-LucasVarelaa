@@ -5,4 +5,4 @@
 
 ### Tengo un perra que se llama nala
 
-![Nala](Nala.jpg "Nala")
+![Nala](Nala.jpeg "Nala")
