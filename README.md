@@ -1,10 +1,6 @@
-# presentacion-
+*# Lucas Varela-*
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+- Hola me llamo Lucas Varela, tengo 20 años y arranque la facu en 2022.
+- Me gusta programar y aprender distintos lenguajes pero aspiro a un cargo gerencial
 
-Ya saben usar git!
+
