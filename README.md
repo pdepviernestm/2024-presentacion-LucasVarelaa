@@ -6,3 +6,8 @@
 ### Tengo un perra que se llama nala
 
 ![Nala](Nala.jpg "Nala")
+
+## Hobbies
+- Ir al gimnasio
+- Jugar al Futbol
+- Ver series
