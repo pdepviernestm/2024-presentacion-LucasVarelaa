@@ -9,5 +9,5 @@
 
 ## Hobbies
 - Ir al gimnasio
-- Jugar al Futbol
-- Ver series
+- Jugar al Futbol (soy de boquita pasion)
+- Ver series (todo tipo de serie pero mi fav es VIKINGOS)
